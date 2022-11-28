@@ -1,4 +1,4 @@
 - Prepare blacklist item JSON format.
-- Prepare "ADD WHITELIST ITEM" script for simple adding script and:
+- Prepare "ADD WHITELIST ITEM" script for simple records and:
   - automatic favicon downloading
   - automatic twitter account name downloading/updating

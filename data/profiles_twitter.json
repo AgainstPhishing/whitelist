@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "name": "ens.eth",
+      "handler": "ensdomains",
+      "comment": "Ethereum Domain System",
+      "updatedAt": 1666997666
+    }
+  ]
+}

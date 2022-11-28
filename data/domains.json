@@ -1,0 +1,11 @@
+{
+  "data": [
+    {
+      "name": "ENS",
+      "address": "ens.domains",
+      "comment": "Ethereum Domain System",
+      "favicon_url": "https://claim.ens.domains/favicon.ico",
+      "updatedAt": 1666997666
+    }
+  ]
+}
