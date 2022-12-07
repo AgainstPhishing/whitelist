@@ -3,7 +3,7 @@
     {
       "name": "ens.eth",
       "projectName": "ENS",
-      "handler": "ensdomains",
+      "handle": "ensdomains",
       "comment": "Ethereum Domain System",
       "createdAt": 1666997666,  
       "updatedAt": 1666997666
