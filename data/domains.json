@@ -5,7 +5,42 @@
       "address": "ens.domains",
       "comment": "Ethereum Domain System",
       "faviconUrl": "https://claim.ens.domains/favicon-32x32.png",
-      "updatedAt": 1666997666
+      "createdAt": 1666997666
+    },
+    {
+      "name": "Captcha",
+      "address": "captcha.bot",
+      "comment": "Captcha bot website",
+      "faviconUrl": "https://captcha.bot/favicon.ico",
+      "createdAt": 1670620559
+    },
+    {
+      "name": "Uniswap Interface",
+      "address": "app.uniswap.org",
+      "comment": "Uniswap App",
+      "faviconUrl": "https://app.uniswap.org/favicon.png",
+      "createdAt": 1670620559
+    },
+    {
+      "name": "Optimism",
+      "address": "optimism.io",
+      "comment": "Uniswap App",
+      "faviconUrl": "https://app.optimism.io/favicon.ico",
+      "createdAt": 1670620559
+    },
+    {
+      "name": "OpenSea",
+      "address": "opensea.io",
+      "comment": "Uniswap App",
+      "faviconUrl": "https://opensea.io/static/images/favicon/32x32.png",
+      "createdAt": 1670620559
+    },
+    {
+      "name": "Matcha",
+      "address": "matcha.xyz",
+      "comment": "Matcha 0x App",
+      "faviconUrl": "https://www.matcha.xyz/favicon.ico",
+      "createdAt": 1670620559
     }
   ]
 }

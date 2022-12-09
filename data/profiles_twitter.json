@@ -7,6 +7,70 @@
       "comment": "Ethereum Domain System",
       "createdAt": 1666997666,  
       "updatedAt": 1666997666
+    },
+    {
+      "name":"Uniswap Labs 🦄",
+      "projectName": "Uniswap",
+      "handle": "Uniswap",
+      "comment": "Uniswap Labs official",
+      "createdAt": 1670621308,  
+      "updatedAt": 1670621308
+    },
+    {
+      "name": "HopProtocol",
+      "projectName": "HopProtocol",
+      "handle": "HopProtocol",
+      "comment": "HopProtocol official",
+      "createdAt": 1670621308,  
+      "updatedAt": 1670621308
+    },
+    {
+      "name": "Optimism (✨🔴_🔴✨)",
+      "projectName": "Optimism",
+      "handle": "optimismFND",
+      "comment": "Optimism official",
+      "createdAt": 1670621308,  
+      "updatedAt": 1670621308
+    },
+    {
+      "name": "OP Labs",
+      "projectName": "OP Labs",
+      "handle": "OPLabsPBC",
+      "comment": "Optimism official",
+      "createdAt": 1670621308,  
+      "updatedAt": 1670621308
+    },
+    {
+      "name": "Optimism Governance",
+      "projectName": "Optimism",
+      "handle": "OptimismGov",
+      "comment": "Optimism official",
+      "createdAt": 1670621308,  
+      "updatedAt": 1670621308
+    },
+    {
+      "name": "WBTC",
+      "projectName": "WBTC",
+      "handle": "WrappedBTC",
+      "comment": "WBTC official",
+      "createdAt": 1670621308,  
+      "updatedAt": 1670621308
+    },
+    {
+      "name": "BNB Chain",
+      "projectName": "BNB Chain",
+      "handle": "BNBCHAIN",
+      "comment": "BNB Chain official",
+      "createdAt": 1670621308,  
+      "updatedAt": 1670621308
+    },
+    {
+      "name": "OpenSea",
+      "projectName": "OpenSea",
+      "handle": "opensea",
+      "comment": "OpenSea official",
+      "createdAt": 1670621308,  
+      "updatedAt": 1670621308
     }
   ]
 }
