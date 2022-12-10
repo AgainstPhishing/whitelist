@@ -41,6 +41,13 @@
       "comment": "Matcha 0x App",
       "faviconUrl": "https://www.matcha.xyz/favicon.ico",
       "createdAt": 1670620559
+    },
+    {
+      "name": "Aave",
+      "address": "app.aave.com",
+      "comment": "Aave App",
+      "faviconUrl": "https://app.aave.com/favicon.ico",
+      "createdAt": 1670620559
     }
   ]
 }
