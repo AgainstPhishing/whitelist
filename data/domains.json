@@ -48,6 +48,13 @@
       "comment": "Aave App",
       "faviconUrl": "https://app.aave.com/favicon.ico",
       "createdAt": 1670620559
+    },
+    {
+      "name": "Philand",
+      "address": "philand.xyz",
+      "comment": "Philand App",
+      "faviconUrl": "https://land.philand.xyz/favicon.svg",
+      "createdAt": 1670696983
     }
   ]
 }
