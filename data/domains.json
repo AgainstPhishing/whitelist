@@ -55,6 +55,13 @@
       "comment": "Philand App",
       "faviconUrl": "https://land.philand.xyz/favicon.svg",
       "createdAt": 1670696983
+    },
+    {
+      "name": "Treasury",
+      "address": "compoundtreasury.com",
+      "comment": "compound treasury official",
+      "faviconUrl": "https://compoundtreasury.com/favicon.ico",
+      "createdAt": 1671393355
     }
   ]
 }
