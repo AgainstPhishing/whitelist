@@ -62,6 +62,13 @@
       "comment": "compound treasury official",
       "faviconUrl": "https://compoundtreasury.com/favicon.ico",
       "createdAt": 1671393355
+    },
+    {
+      "name": "Lens Protocol",
+      "address": "lens.xyz",
+      "comment": "Lens Protocol official website",
+      "faviconUrl": "https://www.lens.xyz/favicon.ico",
+      "createdAt": 1671444349
     }
   ]
 }
