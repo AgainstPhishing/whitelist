@@ -69,6 +69,20 @@
       "comment": "Lens Protocol official website",
       "faviconUrl": "https://www.lens.xyz/favicon.ico",
       "createdAt": 1671444349
+    },
+    {
+      "name": "LastPass",
+      "address": "lastpass.com",
+      "comment": "lastpass.com official website",
+      "faviconUrl": "https://lastpass.com/favicon.ico",
+      "createdAt": 1671990338
+    },
+    {
+      "name": "1Password",
+      "address": "1password.com",
+      "comment": "1password.com official website",
+      "faviconUrl": "https://app.1password.com/images/favicon.ico",
+      "createdAt": 1671990338
     }
   ]
 }
