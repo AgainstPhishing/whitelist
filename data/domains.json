@@ -83,6 +83,13 @@
       "comment": "1password.com official website",
       "faviconUrl": "https://app.1password.com/images/favicon.ico",
       "createdAt": 1671990338
+    },
+    {
+      "name": "MetaMask",
+      "address": "metamask.io",
+      "comment": "MetaMask official website",
+      "faviconUrl": "https://metamask.io/icons/icon-48x48.png",
+      "createdAt": 1671990338
     }
   ]
 }
