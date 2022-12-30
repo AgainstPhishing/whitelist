@@ -87,6 +87,14 @@
       "comment": "Philand official",
       "createdAt": 1670696983,  
       "updatedAt": 1670696983
+    },
+    {
+      "name": "Polkadot",
+      "projectName": "phi",
+      "handle": "Polkadot",
+      "comment": "Polkadot official",
+      "createdAt": 1672409725,  
+      "updatedAt": 1672409725
     }
   ]
 }

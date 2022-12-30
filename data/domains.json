@@ -90,6 +90,13 @@
       "comment": "MetaMask official website",
       "faviconUrl": "https://metamask.io/icons/icon-48x48.png",
       "createdAt": 1671990338
+    },
+    {
+      "name": "Polkadot",
+      "address": "polkadot.js.org",
+      "comment": "Polkadot official APP",
+      "faviconUrl": "https://polkadot.js.org/apps/favicon.ico",
+      "createdAt": 1672409725
     }
   ]
 }
